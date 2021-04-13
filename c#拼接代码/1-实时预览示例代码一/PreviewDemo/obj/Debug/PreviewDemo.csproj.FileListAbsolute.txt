@@ -1,0 +1,46 @@
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe.config
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.pdb
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csprojAssemblyReference.cache
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.PreSet.resources
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.cache
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.CoreCompileInputs.cache
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.exe
+D:\Googledownload\CH-HCNetSDKV6.1.6.3_build20200925_Win64\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.pdb
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe.config
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.pdb
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csprojAssemblyReference.cache
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.PreSet.resources
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.cache
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.CoreCompileInputs.cache
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.exe
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.pdb
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\dll\x86\OpenCvSharpExtern.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\dll\x64\OpenCvSharpExtern.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\dll\x86\opencv_ffmpeg400.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\dll\x64\opencv_ffmpeg400_64.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.Blob.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.Extensions.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.UserInterface.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.Blob.pdb
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.Blob.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.Extensions.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.UserInterface.pdb
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\OpenCvSharp.UserInterface.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.CopyComplete
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Buffers.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Drawing.Common.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Memory.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Numerics.Vectors.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.ValueTuple.dll
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Buffers.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Memory.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Numerics.Vectors.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\visualstudio_workspace\1-实时预览示例代码一\PreviewDemo\bin\System.ValueTuple.xml
